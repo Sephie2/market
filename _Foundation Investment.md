@@ -22,7 +22,7 @@ The COVID crisis was also very hard on the world economy and some countries stil
 ## The Intelligent Investor
 
 Now we get to the most important book of all for investors, which I haven't read yet. _The Intelligent Investor by Benjamin Graham_. He basically splits the whole market in two different conditions. Here is a very short and newb-friendly summary:
-![](./attachments/Pasted image 20250404210732.png)
+![](./attachments/Pasted%20image%2020250404210732.png)
 
 The last ~2 years we have been in a very strong "voting machine". Everyone (stock) was a winner and ETFs had very strong growth. People were trading by hype, feelings and mania and it didn't matter. We are currently dipping our feet into the Weighting Machine. You could argue that March was part of it, but it really was just a transitory phase.
 Sure, Trump and his Tariffs (and the market reaction to them) has basically moved the timing forward, but the cyclical switch from Voting Machine to Weighting Machine would have come eventually anyways. Maybe in 6-9 months without the Tariffs. Because it is somewhat cyclical and you have to take the entire market and macro-economics into account to even start understanding this properly. But luckily, we don't.
@@ -33,7 +33,7 @@ You would have to have a very strong understanding of each company and market se
 
 What we need is a Market Chart that lets us use Indicators. There are some for free, like IBKR Trading App, and I think investing.com also has one. However, the best is TradingView, but you'll probably need the Essentials subscription to get the amount of indicators needed. They do offer a 70% discount twice a year, though. I have customized my view to look like this (the orange bars are not part of the indicators):
 
-![](./attachments/Pasted image 20250404210951.png)
+![](./attachments/Pasted%20image%2020250404210951.png)
 
 ### Setup
 - You want the standard: **MACD, SMA in the chart, RSI, VI and Volume**. The Bollinger Band (without the base line) helps me but is optional
@@ -45,7 +45,7 @@ What we need is a Market Chart that lets us use Indicators. There are some for f
 - The long-term MACD over the S&P 500 perfectly identifies the Voting Machine (MACD over the zero line) and the Weighing Machine (MACD below zero line).
 - The RSI long term indicator gives us strong signals when the voting machine breaks, but not when the weighing machine does.
 
-![](./attachments/Pasted image 20250404211210.png)
+![](./attachments/Pasted%20image%2020250404211210.png)
 
 ## How to beat the S&P 500
 
@@ -57,7 +57,7 @@ Obviously you have to pay taxes on the profits and in some cases this may be eno
 
 You can technically trade the weighing machine by using long term put options on the market, but then you also have to hedge using short term call options at the right _timing_. In this case you switch to the 4h view of the S&P 500 and watch the RSI for oversold (not oversold signals, oversold. the trend line breaks the lower barrier). you can watch this working in 2022, by the way:
 
-![](./attachments/Pasted image 20250404211414.png)
+![](./attachments/Pasted%20image%2020250404211414.png)
 
 However, the one simple trick is to identify when to move your money of the investment ETF and when to put it in. I think starting to buy put options might be a bit too much. the only question you need to answer is if you actually safe money buy selling your ETF and then rebuying them later, and paying the taxes on the profit. But identifying the dip (somewhat) in terms of weekly view should be rather easy now.
 
@@ -71,7 +71,7 @@ After some kind of big event happened, like Trump Tariffs, do not touch the mark
 
 What you do? You wait for the weekly indicator (i.e. MACD) to recover and just don't touch anything.
 
-![](./attachments/Pasted image 20250404211714.png)
+![](./attachments/Pasted%20image%2020250404211714.png)
 
 You can keep holding your ETF and buy short-options during the weighing machine to cover for the losses in this case the short options are used as some kind of insurance and when I say options, I actually mean warrants. We are in the EU, we don't (usually) get access to actual options.
 
