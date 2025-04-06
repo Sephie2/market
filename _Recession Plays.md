@@ -8,12 +8,12 @@
 	- 3rd layer: Defensive Stocks (Consumer Defensive, Utility)
 - After a big market shock, give it 3 days of wait until things stabilize again. Don’t even think about buying anything. The market needs to show signs of proper recovery over at least 2 days so you can buy based on strategy, not on greed and assumptions
 - When things are heating up, check your timeframes! Example: 
-	- VIX 5 minute shows a head and shoulder (bearish pattern): ![](./attachments/Pasted image 20250404125041.png)
+	- VIX 5 minute shows a head and shoulder (bearish pattern): ![](./attachments/Pasted%20image%2020250404125041.png)
 		- (meaning calls in the market)
-	- VIX 30 minute chart shows reverse head and shoulders **and** an current ABC-pattern: ![](./attachments/Pasted image 20250404125147.png)
+	- VIX 30 minute chart shows reverse head and shoulders **and** an current ABC-pattern: ![](./attachments/Pasted%20image%2020250404125147.png)
 		- (meaning puts on the market)
 
-![](./attachments/Pasted image 20250404125923.png)
+![](./attachments/Pasted%20image%2020250404125923.png)
 - recession positioning
 - what works still? 
 	- Financial: PGR, CB
@@ -28,4 +28,4 @@
 	- Tabacco: PM, BTI, MO
 
 ==If you want to go long on ETFs (shifting from S&P500), you might as well just shift to the Inverse Index ETFs:== 
-![](./attachments/Pasted image 20250404130813.png)
+![](./attachments/Pasted%20image%2020250404130813.png)
